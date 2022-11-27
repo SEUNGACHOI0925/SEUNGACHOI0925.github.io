@@ -1,8 +1,0 @@
-body {
-    background-image:url(../bg1/bg1.png), url(../bg1/bg2.png);
-    background-position: left top, right top;
-    background-repeat: no-repeat;
-}
-h1,h4 {
-    text-align: center;
-}
