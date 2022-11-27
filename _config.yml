@@ -14,6 +14,9 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" #"default" , "air", "contrast", "dark", "sunrise", "neon", "mint", "plum", "aqua"
 
+#category(내가 추가함)
+category_list: [ nodejs, javascript, tip, diary, linux, chatbot, php ,publishing, jekyll, sql, error ]
+
 # Site Settings
 locale                   : "en-US"
 title                    : "우당탕탕 굴러가는 개발일지"
